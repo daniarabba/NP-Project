@@ -1,2 +1,2 @@
 # NP-Project
-Contains both AMF MNP project and covid-19 project. 
+Contains both AMF MNP project and Covid-19 project. 
